@@ -1,0 +1,15 @@
+Resin parts:
+06_cog1 (1pc)
+07_cog2 (2pc)
+10_shaft element (2pc)
+11_die2 (1pc)
+12_die1 (1pc)
+
+PETG Filament parts:
+01-BottomPlate (1pc)
+02_topPlate (1pc)
+03_StatorSpacer (3pc)
+04_RotorSpacer (5pc)
+05_RotorCenteringElement (1pc)
+08_Cog3 (1pc)
+09_Cog4 (1pc) 
